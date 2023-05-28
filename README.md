@@ -13,13 +13,13 @@ Cakes and Bakes is a delightful web project that showcases a wide variety of del
 # Technologies Used
 The Cakes and Bakes website was developed using the following technologies:
 
-- **HTML:* The core structure and content of the website were created using HTML, ensuring a well-organized and semantically correct layout.
+- **HTML:** The core structure and content of the website were created using HTML, ensuring a well-organized and semantically correct layout.
 
-- **CSS:* Cascading Style Sheets (CSS) were employed to enhance the website's aesthetics and define its visual presentation. The use of CSS guarantees a visually appealing and cohesive design throughout the website.
+- **CSS:** Cascading Style Sheets (CSS) were employed to enhance the website's aesthetics and define its visual presentation. The use of CSS guarantees a visually appealing and cohesive design throughout the website.
 
-- **JavaScript:* JavaScript was utilized to add interactivity and dynamic functionality to the website. From animated transitions to form validation, JavaScript plays a crucial role in providing an engaging user experience.
+- **JavaScript:** JavaScript was utilized to add interactivity and dynamic functionality to the website. From animated transitions to form validation, JavaScript plays a crucial role in providing an engaging user experience.
 
-- **Bootstrap 5:* The popular front-end framework, Bootstrap 5, was leveraged to streamline the development process and enhance the website's responsiveness. It provides a robust grid system, pre-designed components, and responsive utilities, enabling faster development and consistent responsiveness across different devices.
+- **Bootstrap 5:** The popular front-end framework, Bootstrap 5, was leveraged to streamline the development process and enhance the website's responsiveness. It provides a robust grid system, pre-designed components, and responsive utilities, enabling faster development and consistent responsiveness across different devices.
 
 # How to Use
 To explore Cakes and Bakes, follow these steps:
