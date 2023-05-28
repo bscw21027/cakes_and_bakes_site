@@ -1,6 +1,8 @@
 # Cakes and Bakes
 Cakes and Bakes is a delightful web project that showcases a wide variety of delicious cakes and baked goods. This interactive website has been developed using HTML, CSS, JavaScript, and Bootstrap 5, resulting in a visually appealing and user-friendly experience. Whether you're a baking enthusiast or simply have a sweet tooth, Cakes and Bakes offers a virtual haven of mouthwatering treats.
 
+![t]([http://url/to/img.png](https://github.com/bscw21027/cakes_and_bakes_site/blob/main/assests/site_images/a.png))
+
 # Features
 - **Homepage:** Upon visiting the website, users are greeted with an inviting homepage that sets the tone for the entire browsing experience. The homepage displays a beautiful carousel showcasing the most popular cakes and desserts, enticing visitors to explore further.
 
